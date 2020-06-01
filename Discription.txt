@@ -1,0 +1,21 @@
+File name : marvel.go
+
+* Created a Rest Microservice Api
+
+* Regarding the Problem
+
+* i have created a Api which will do Create , Update , delete operations.
+
+* Here we can create marvel record by doing post request
+
+* we can get all the Characters present in marvel slice by providing a Get request
+
+* By passing name as parameter in uri we can get particular marvel character in json format by providing Get request
+
+*By passing name as parameter in uri we can remove the particular character of marvel by providing delete request
+
+* we can aslo update the records in marvel structure by providing put request.
+
+All these operation is done Go lang.
+
+

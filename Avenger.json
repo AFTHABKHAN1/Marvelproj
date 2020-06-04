@@ -1,0 +1,29 @@
+{
+    "name": "Avengers",
+	"character": [
+		{
+			"name": "Iron man",
+			"max_power": 60
+		},
+		{
+			"name": "Captain America",
+			"max_power": 68
+		},
+		{
+			"name": "Spider man",
+			"max_power": 58
+		},
+		{
+			"name": "Black Panther",
+			"max_power":68
+		},
+		{
+			"name": "Vision",
+			"max_power": 50
+		},
+		{
+			"name": "Hawk eye",
+			"max_power": 30
+		}	
+	]
+}

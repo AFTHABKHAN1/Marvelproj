@@ -1,0 +1,29 @@
+{
+    "name": "Mutants",
+	"character": [
+		{
+			"name": "Apocalypse",
+			"max_power": 80
+		},
+		{
+			"name": "Professor X",
+			"max_power": 75
+		},
+		{
+			"name": "Dark Pheonix",
+			"max_power": 90
+		},
+		{
+			"name": "Magneto",
+			"max_power":78
+		},
+		{
+			"name": "Wolverin",
+			"max_power": 64
+		},
+		{
+			"name": "Mystique",
+			"max_power": 66
+		}	
+	]
+}

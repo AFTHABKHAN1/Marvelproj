@@ -1,0 +1,29 @@
+{
+    "name": "Anti heroes",
+	"character": [
+		{
+			"name": "Mandrin",
+			"max_power": 70
+		},
+		{
+			"name": "Thanos",
+			"max_power": 80
+		},
+		{
+			"name": "Galactus",
+			"max_power": 95
+		},
+		{
+			"name": "Hela",
+			"max_power":75
+		},
+		{
+			"name": "Ego",
+			"max_power": 50
+		},
+		{
+			"name": "Dr. Doom",
+			"max_power": 78
+		}	
+	]
+}
